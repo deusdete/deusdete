@@ -17,7 +17,7 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deusdete"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jdeusdete&show_icons=true&include_all_commits=true&theme=buefy" alt="Lia's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deusdete"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deusdete&show_icons=true&include_all_commits=true&theme=buefy" alt="Deusdete github stats" />
 </a>
 
 </br>
