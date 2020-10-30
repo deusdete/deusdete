@@ -3,7 +3,7 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :rainbow: &nbsp; Pode me chamar de Deuzim, 
+- :man_office_worker: &nbsp; Pode me chamar de Deuzim, 
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente Node.js,;
 - 🎓 &nbsp; Sou formado em ADS na UNIP - Universidade Paulista;
 - 🎓 &nbsp; Estou terminado uma MAB em Analise de Dados com BI e Big Data na Cruzeiro do Sul;
