@@ -5,8 +5,8 @@
 
 - :man_office_worker: &nbsp; Pode me chamar de Deuzim, 
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente Node.js,;
-- 🎓 &nbsp; Sou formado em ADS na UNIP - Universidade Paulista;
-- 🎓 &nbsp; Estou terminado uma MAB em Analise de Dados com BI e Big Data na Cruzeiro do Sul;
+- 🎓 &nbsp; Sou formado em Análise e Desenvolvimento de Sistemas;
+- 🎓 &nbsp; MAB em Analise de Dados com BI e Big Data;
 - 🎓 &nbsp; Aluno do GoStack 14 da Rocketseat;
 - 💼 &nbsp; Full Stack Engineer na VSE Tecnologia;
 - :computer: &nbsp; Apaixonado por tecnologia, procuro participar de eventos para obter aprendizagem e fazer network. ;
