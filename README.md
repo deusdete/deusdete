@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Sou formado em Análise e Desenvolvimento de Sistemas;
 - 🎓 &nbsp; MAB em Análise de Dados com BI e Big Data;
 - 🎓 &nbsp; Aluno do GoStack 14 da Rocketseat;
-- 💼 &nbsp; Full Stack Engineer na VSE Tecnologia;
+- 💼 &nbsp; Full Stack Engineer na Meets;
 - :computer: &nbsp; Apaixonado por tecnologia, procuro participar de eventos para obter aprendizagem e fazer network. ;
 - :iphone: &nbsp; Apaixonado por musica eletrônica, sou dj nas horas vagas;
 
